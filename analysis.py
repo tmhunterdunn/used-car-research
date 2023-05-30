@@ -8,7 +8,7 @@ from quantile_regression.linear_snqr import linear_snqr
 
 quantile_colors = ['r', 'g','b']
 
-df = pd.read_csv('data/subaru/outback/2023-05-04 19.36.36.898638.csv')
+df = pd.read_csv('data/toyota/corolla/2023-04-05 13.01.28.248735.csv')
 df.year = df.year.astype(float)
 df['age'] = df.year.max() - df.year
 df['age_sq'] = df.age**2
@@ -46,8 +46,8 @@ for i, tau in enumerate(taus):
 plt.xlabel("age")
 plt.ylabel("price")
 plt.legend()
-plt.title("Corrolas 150km from Kitchener")
-plt.savefig("price_per_year_linear_snqr.png", dpi=300)
+plt.title("Price per year linear_snqr")
+plt.savefig("output/price_per_year_linear_snqr.png", dpi=300)
 plt.clf()
 
 # ##############################################################################3
@@ -81,6 +81,6 @@ for i, tau in enumerate(taus):
 plt.xlabel("kms")
 plt.ylabel("price")
 plt.legend()
-plt.title("Corrolas 150km from Kitchener")
-plt.savefig("price_per_kms_linear_snqr.png", dpi=300)
+plt.title("Price per kms linear_snqr")
+plt.savefig("output/price_per_kms_linear_snqr.png", dpi=300)
 plt.clf()

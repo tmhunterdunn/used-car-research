@@ -1,1 +1,2 @@
 # used-car-research
+Used car prices have been high since 2020, so before buying my first car in February 2023, I searched for a good deal using a data driven approach. I found a 2013 manual Corolla in Huntsville with only 92,000 kilometers on it for $9,300. According to my model, this is a steal.
