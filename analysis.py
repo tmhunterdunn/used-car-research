@@ -4,7 +4,9 @@ import matplotlib.pyplot as plt
 
 from quantile_regression.linear_snqr import linear_snqr
 
-
+## TODO:
+# create output subdirectory structure output/model/make/time_stamp
+# run analysis on most recent data csv file by default
 
 quantile_colors = ['r', 'g','b']
 

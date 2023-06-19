@@ -4,7 +4,9 @@ import numpy as np
 from quantile_regression.linear_snqr import linear_snqr
 
 
-quantile_colors = ['r', 'g','b']
+## TODO:
+# create output subdirectory structure output/model/make/time_stamp
+# run analysis on most recent data csv file by default
 
 df = pd.read_csv('data/mitsubishi/rvr/2023-06-19 09.47.51.142040.csv')
 df.year = df.year.astype(float)
