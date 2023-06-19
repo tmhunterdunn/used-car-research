@@ -2482,3 +2482,309 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687182132261	geckodriver	INFO	Listening on 127.0.0.1:58003
+1687182135756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tmhun\\AppData\\Local\\Temp\\rust_mozprofileyprF5G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687182136199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687182136204	Marionette	INFO	Listening on port 58013
+WebDriver BiDi listening on ws://127.0.0.1:58004
+Read port: 58013
+1687182136455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58004/devtools/browser/01f5713e-53a3-4476-9c98-058aca4756fa
+JavaScript warning: https://www.kijijiautos.ca/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kijijiautos.ca/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5990 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kijijiautos.ca."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 4525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29719238&moatClientLevel2=4876615&moatClientLevel3=363956249&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 4861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2421 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 628 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29685563&moatClientLevel2=4876615&moatClientLevel3=369152979&moatClientLevel4=180625852&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29719238&moatClientLevel2=4876615&moatClientLevel3=363956369&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3358 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6789 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-68MZuGT5k2hdq&moatClientLevel2=qfm&moatClientLevel3=6ccf05c4-d2ec-4058-abfe-d0a7f317b1ed&moatClientLevel4=0df081b1-2909-4bda-870a-cde5018f1959&uid=P80OR0vIejVRyQkwTaEPRku-FkhKyQ5cObkMR0q4CEI4u3k0Pq1MvQ==, line 283: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/14902478652685443734/index.html?ev=01_250, line 266: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.120, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6285 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2170 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5253 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182237950&ver1=2.2.3&qid=838363f5039363f5730343&rnd=lmub8nx93clw&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29638666&moatClientLevel2=4876615&moatClientLevel3=363377192&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182246953&ver1=2.2.3&qid=838363f5039363f5730343&rnd=jlnfb5v3fh4h&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182251750&ver1=2.2.3&qid=838363f5039363f5730343&rnd=yfd52uj1bffu&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebHtml5Banner.js, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JDL7JCjw4efK7qK0vtd97R4AAAGI0-Y6hgEAABP2AQBhcHNfdHhuX2JpZDEgICBhcHNfdHhuX2ltcDEgICC96i3T&rnd=7111864821191687182261482&pp=jz2juo&p=m9h79c&crid=2082:860042_3_S, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182261824&ver1=2.2.3&qid=838363f5039363f5730343&rnd=htonmaxazcw0&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182266236&ver1=2.2.3&qid=838363f5039363f5730343&rnd=dovqfkq0pxfi&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.120, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29638666&moatClientLevel2=4876615&moatClientLevel3=363377192&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3070 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5265 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/mitsubishi/rvr/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29638666&moatClientLevel2=4876615&moatClientLevel3=363377192&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6263 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1687182574826	geckodriver	INFO	Listening on 127.0.0.1:63959
+1687182578443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\tmhun\\AppData\\Local\\Temp\\rust_mozprofilejysQyi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687182578808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687182578814	Marionette	INFO	Listening on port 63970
+Read port: 63970
+WebDriver BiDi listening on ws://127.0.0.1:63960
+1687182578955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63960/devtools/browser/2e932850-c0b4-40c1-8aff-c92953be6544
+JavaScript warning: https://www.kijijiautos.ca/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.kijijiautos.ca/c3650cdf-216a-4ba2-80b0-9d6c540b105e58d2670b-ea0f-484e-b88c-0e2c1499ec9bd71e4b42-8570-44e3-89b6-845326fa43b6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.kijijiautos.ca."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1687182592678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29626984&moatClientLevel2=4876615&moatClientLevel3=363708216&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2044 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebHtml5Banner.js, line 148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 4916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29638666&moatClientLevel2=4876615&moatClientLevel3=363377225&moatClientLevel4=180753614&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-68MZuGT5k2hdq&moatClientLevel2=qfm&moatClientLevel3=6ccf05c4-d2ec-4058-abfe-d0a7f317b1ed&moatClientLevel4=729c99e2-c8c7-4f8e-afd7-501da1ce2ffb&uid=EBJ8HGcUBmgIFHdqEglxHxxnaG4UFwMBFBMHbhIRARQUZgMYZeT8FQ==, line 283: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/sadbundle/16156522542419640993/index.html?ev=01_250, line 296: TypeError: studio.Enabler is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 3649 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5870 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29719238&moatClientLevel2=4876615&moatClientLevel3=363956249&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/mindsharecamazdadcm126715861715/moatad.js#moatClientLevel1=29682323&moatClientLevel2=4876615&moatClientLevel3=363745071&moatClientLevel4=180570265&zMoatG=ct=CA&st=ON&city=1825&dma=0&zp=N2E&bw=4, line 281: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2096 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 4994 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 631 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 706 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182688008&ver1=2.2.3&qid=838363f5039363f5730343&rnd=6vqd1s8ve3rv&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182697848&ver1=2.2.3&qid=838363f5039363f5730343&rnd=ebyqcumnbv7l&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182708186&ver1=2.2.3&qid=838363f5039363f5730343&rnd=jfvvvhnnmz34&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182718297&ver1=2.2.3&qid=838363f5039363f5730343&rnd=9axaodrl8udb&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1687182723293&ver1=2.2.3&qid=838363f5039363f5730343&rnd=7qbynsohc7rr&cid=407 line 1 > eval, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 655 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-68MZuGT5k2hdq&moatClientLevel2=qfm&moatClientLevel3=66dd7593-2653-46a2-a9ce-f155c7d0c862&moatClientLevel4=a4e145ff-ae01-4c87-9324-a13894e5e6dd&uid=_bUOVcGPBmD-ilpO36kSVPGtMWvxtRGJfCs=, line 283: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 61 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 30 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 5696 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 7707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.kijijiautos.ca/cars/chevrolet/colorado/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 6395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 1113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 4133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2574 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-68MZuGT5k2hdq&moatClientLevel2=qfm&moatClientLevel3=1d8655f6-817c-43ff-8b3a-1b0a54571d9d&moatClientLevel4=6e32e8d2-95a5-49a5-8434-04cd4a85d500&uid=sgxfQ8lKUX3CcGATsHhnSvFzYH7Yb9_xwUs=, line 283: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1SSVsYZJr8uIwdDGCB28uEfJ_gMT-7RJhMj1JjXxEHA.js line 2 > eval line 2421 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.trackjs.com/agent/v3/latest/t.js, line 41: Error: TrackJS Caught: c.WindowAdaptor.workingDocument() is undefined
+JavaScript error: https://cdn.trackjs.com/agent/v3/latest/t.js, line 41: Error: TrackJS Caught: c.WindowAdaptor.workingDocument() is undefined
+1687183008235	Marionette	INFO	Stopped listening on port 63970
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 11148, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1687183065230	geckodriver	INFO	Listening on 127.0.0.1:59621
