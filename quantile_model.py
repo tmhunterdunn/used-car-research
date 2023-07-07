@@ -8,7 +8,7 @@ from quantile_regression.linear_snqr import linear_snqr
 # create output subdirectory structure output/model/make/time_stamp
 # run analysis on most recent data csv file by default
 
-df = pd.read_csv('data/mitsubishi/rvr/2023-06-19 09.47.51.142040.csv')
+df = pd.read_csv('data/subaru/outback/2023-07-07 10.42.44.505487.csv')
 df.year = df.year.astype(float)
 df['age'] = df.year.max() - df.year
 df['age_sq'] = df.age**2

@@ -11,7 +11,7 @@ with open('config/province_codes.json', 'r') as f:
     province_codes = json.load(f)
 
 url = "https://www.kijijiautos.ca/cars/"
-car_type = "chevrolet/colorado/"
+car_type = "mitsubishi/rvr/"
 url += car_type
 
 if not os.path.exists("data/" + car_type):

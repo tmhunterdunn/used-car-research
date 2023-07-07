@@ -4,11 +4,11 @@ from selenium import webdriver
 import pandas as pd
 import re
 
-df = pd.read_csv('cheap-cars-kms.csv')
+df = pd.read_csv('output/data-w-quantiles-rvr.csv')
 driver = webdriver.Firefox('geckodriver')
 
 sleep(2)
-url = "https://www.kijijiautos.ca/cars/toyota/corolla/automatic/#vip="
+url = "https://www.kijijiautos.ca/cars/mitsubishi/rvr/#vip="
 
 cheap_cars = df[df.cheap]
 
