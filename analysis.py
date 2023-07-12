@@ -10,7 +10,7 @@ from quantile_regression.linear_snqr import linear_snqr
 
 quantile_colors = ['r', 'g','b']
 
-df = pd.read_csv('data/mitsubishi/rvr/2023-06-19 09.47.51.142040.csv')
+df = pd.read_csv('data/mitsubishi/rvr/2023-07-07 10.54.00.772676.csv')
 df.year = df.year.astype(float)
 df['age'] = df.year.max() - df.year
 df['age_sq'] = df.age**2
