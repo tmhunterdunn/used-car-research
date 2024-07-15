@@ -8,15 +8,12 @@ import os
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 
 
 geckodriver_path = 'geckodriver/geckodriver'
 
 options = Options()
-#options.headless = False
 
-profile = FirefoxProfile('/home/travis/snap/firefox/common/.mozilla/firefox/pq2s2mg1.selenium')
 service = Service(geckodriver_path)
 
 driver = webdriver.Firefox(service=service, options=options)
