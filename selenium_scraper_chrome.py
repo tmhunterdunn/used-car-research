@@ -1,13 +1,33 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from random import randint
 from time import sleep
-from selenium import webdriver
-from selenium.webdriver.firefox.service import Service
-from selenium.webdriver.firefox.options import Options
 import pandas as pd
 import re
 import datetime
 import json
 import os
+# Set up Chrome options
+chrome_options = Options()
+
+# OPTIONAL: Point to a Chromium binary if not using Google Chrome
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+# OPTIONAL: Run in headless mode
+# chrome_options.add_argument("--headless")
+
+# Start the browser
+driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    options=chrome_options
+)
+
+
+
+
 
 with open('config/province_codes.json', 'r') as f:
     province_codes = json.load(f)
@@ -20,12 +40,6 @@ if not os.path.exists("data/" + car_type):
     os.makedirs("data/" + car_type)
 
 
-geckodriver_path = 'geckodriver/geckodriver'
-options = Options()
-
-service = Service(geckodriver_path)
-
-driver = webdriver.Firefox(service=service, options=options)
 
 driver.get(url)
 sleep(2)
@@ -52,7 +66,7 @@ items = []
 rows = [] 
 vips = set()
 
-for i in range(10):
+for i in range(1):
 
     if len(vips) >= car_count:
         break
